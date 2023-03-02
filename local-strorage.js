@@ -28,3 +28,5 @@ setTimeout(function () {
   localStorage.removeItem("sayi");
   numaraYazisi.textContent = 0;
 }, 3000);
+
+console.log("merhaba")
